@@ -1,0 +1,5 @@
+D:\Enzo\AulasFiap\.NET\RabbitMQExample\obj\Debug\net8.0\RabbitMQExample.csproj.AssemblyReference.cache
+D:\Enzo\AulasFiap\.NET\RabbitMQExample\obj\Debug\net8.0\RabbitMQExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enzo\AulasFiap\.NET\RabbitMQExample\obj\Debug\net8.0\RabbitMQExample.AssemblyInfoInputs.cache
+D:\Enzo\AulasFiap\.NET\RabbitMQExample\obj\Debug\net8.0\RabbitMQExample.AssemblyInfo.cs
+D:\Enzo\AulasFiap\.NET\RabbitMQExample\obj\Debug\net8.0\RabbitMQExample.csproj.CoreCompileInputs.cache

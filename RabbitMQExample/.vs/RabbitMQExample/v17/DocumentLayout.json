@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\models\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:models\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\receivers\\receiverfruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:receivers\\receiverfruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\receivers\\receiverusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:receivers\\receiverusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\senders\\senderusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:senders\\senderusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\senders\\senderfruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:senders\\senderfruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\validators\\validationfruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:validators\\validationfruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|d:\\enzo\\aulasfiap\\.net\\rabbitmqexample\\validators\\validationusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04F6237-AB66-435A-B6A7-57FCC4D457EE}|RabbitMQExample.csproj|solutionrelative:validators\\validationusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReceiverUsuario.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Receivers\\ReceiverUsuario.cs",
+              "RelativeDocumentMoniker": "Receivers\\ReceiverUsuario.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Receivers\\ReceiverUsuario.cs",
+              "RelativeToolTip": "Receivers\\ReceiverUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:09:07.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReceiverFruta.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Receivers\\ReceiverFruta.cs",
+              "RelativeDocumentMoniker": "Receivers\\ReceiverFruta.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Receivers\\ReceiverFruta.cs",
+              "RelativeToolTip": "Receivers\\ReceiverFruta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:08:29.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationUsuario.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Validators\\ValidationUsuario.cs",
+              "RelativeDocumentMoniker": "Validators\\ValidationUsuario.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Validators\\ValidationUsuario.cs",
+              "RelativeToolTip": "Validators\\ValidationUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:08:00.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationFruta.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Validators\\ValidationFruta.cs",
+              "RelativeDocumentMoniker": "Validators\\ValidationFruta.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Validators\\ValidationFruta.cs",
+              "RelativeToolTip": "Validators\\ValidationFruta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:07:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SenderUsuario.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Senders\\SenderUsuario.cs",
+              "RelativeDocumentMoniker": "Senders\\SenderUsuario.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Senders\\SenderUsuario.cs",
+              "RelativeToolTip": "Senders\\SenderUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:07:07.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SenderFruta.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Senders\\SenderFruta.cs",
+              "RelativeDocumentMoniker": "Senders\\SenderFruta.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Senders\\SenderFruta.cs",
+              "RelativeToolTip": "Senders\\SenderFruta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:06:41.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:06:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fruta.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Models\\Fruta.cs",
+              "RelativeDocumentMoniker": "Models\\Fruta.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Models\\Fruta.cs",
+              "RelativeToolTip": "Models\\Fruta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:06:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\RabbitMQExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:47:20.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
